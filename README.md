@@ -87,7 +87,7 @@ Dronacharya Group of Institutions | 2023 – 2027
 
 ## 🌍 Live Site
 
-> 🔗 [kajalverma.github.io](https://kajalverma.github.io)
+> 🔗  (https://kay-pro14.github.io/kajalverma.github.io/)
 
 ---
 
